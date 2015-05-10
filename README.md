@@ -61,10 +61,8 @@ It’s interesting to note that we corrected many of these things at the Oct 27t
 
 
 
-Oct 27th Meetup @Lincoln Center
+#Oct 27th Meetup @Lincoln Center
 The goal of the evening was to experiment with the balance of when participants felt connected as a collaborative group and when they felt empowered as an individual within the process. Throughout Sherlock Holmes IoT we’ll be exploring methods for collaborative design. Our goal is to share these experiments and we welcome suggestions, comments and questions… 
-
-
 
 
 RUNNING ORDER
@@ -114,7 +112,7 @@ Now your table is a crime scene.  Please organize it so that during the social m
 Drinks are served and participants are given two post-it notes and asked to write down where they felt a sense of collaboration and ownership and where they felt they were an individual in the process. These responses are clustered on a nearby wall.
 
 
-Nov 4th MindTrek in Helsinki 
+#Nov 4th MindTrek in Helsinki 
 Earlier this week, I ran a version of the Sherlock Collaborative Storytelling workshop in Tampere, Finland. I was participating at an interesting event called Mind Trek.
 The participants took the workshop in some interesting directions, even though the running order was similar to the Lincoln Center version that we ran at the last meetup. 
 
@@ -151,7 +149,7 @@ The groups built an interconnecting storyline that came together in the final pr
 
 
 
-Nov 21st @ Made in NYC Media Center 
+#Nov 21st @ Made in NYC Media Center 
 
 Close to 40 participants came out for our November meetup at the the Made in NYC Media Center. A wonderful mix of storytellers, game designers, makers, directors, designers and producers.
 
@@ -194,7 +192,7 @@ Each team presents their narratives / theories in 2 to 3 minutes for the whole g
 
 
 
-January 30th @ Made in NYC Media Center 
+#January 30th @ Made in NYC Media Center 
 After iterating and running an initial prototype 7 times in NYC, Toronto, Helsinki and Ghent we decided to experiment with forming teams, clustering skills and crafting user journeys. This marked the first step in scoping what we’ll build at Lincoln Center during NYFF 53.
 
 Over 20 participants gathered at the Made in NY Media Center by IFP in Dumbo last night for our 4th monthly meetup. Our next meetup will be held in late February – date and location TBD.
